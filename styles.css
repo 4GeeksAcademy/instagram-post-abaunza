@@ -16,8 +16,23 @@ background-color: black;
     justify-content: space-between;
 }
 .iconohtml{
-    font-size: 45px;
+    font-size: 35px;
+    width:0px;
+    align-content: center;
 }
 .puntos{
 font-size: 35px;
 }
+.texto{
+    line-height:0%;
+    width: 310px;
+    align-content: end;
+}
+.iconos2{
+    width:20px;
+}
+.puntos{
+    width: 15px;
+    align-content: center;
+}
+    
